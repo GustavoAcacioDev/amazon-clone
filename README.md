@@ -1,4 +1,4 @@
-# Um clone do site da Amazon com objetivo de aaprendizado
+# Um clone do site da Amazon com objetivo de aprendizado
 
 
 ## Available Scripts
